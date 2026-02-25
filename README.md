@@ -1,62 +1,84 @@
-<pre>
-#     I am
-#             ██╗ ██████╗ ██╗  ██╗███╗   ██╗ █████╗ ████████╗ █████╗     ██████╗  █████╗ ██╗   ██╗██╗
-#             ██║██╔═══██╗██║  ██║████╗  ██║██╔══██╗╚══██╔══╝██╔══██╗    ██╔══██╗██╔══██╗██║   ██║██║
-#             ██║██║   ██║███████║██╔██╗ ██║███████║   ██║   ███████║    ██║  ██║███████║██║   ██║██║
-#        ██   ██║██║   ██║██╔══██║██║╚██╗██║██╔══██║   ██║   ██╔══██║    ██║  ██║██╔══██║╚██╗ ██╔╝██║
-#        ╚█████╔╝╚██████╔╝██║  ██║██║ ╚████║██║  ██║   ██║   ██║  ██║    ██████╔╝██║  ██║ ╚████╔╝ ██║
-#         ╚════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝
+<pre align="center">
+     I am
+             ██╗ ██████╗ ██╗  ██╗███╗   ██╗ █████╗ ████████╗ █████╗     ██████╗  █████╗ ██╗   ██╗██╗
+             ██║██╔═══██╗██║  ██║████╗  ██║██╔══██╗╚══██╔══╝██╔══██╗    ██╔══██╗██╔══██╗██║   ██║██║
+             ██║██║   ██║███████║██╔██╗ ██║███████║   ██║   ███████║    ██║  ██║███████║██║   ██║██║
+        ██   ██║██║   ██║██╔══██║██║╚██╗██║██╔══██║   ██║   ██╔══██║    ██║  ██║██╔══██║╚██╗ ██╔╝██║
+        ╚█████╔╝╚██████╔╝██║  ██║██║ ╚████║██║  ██║   ██║   ██║  ██║    ██████╔╝██║  ██║ ╚████╔╝ ██║
+         ╚════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝
 </pre>
+<div align="center">
+  <h2>Architecting High-Performance Systems & Machines 🏎️💨</h2>
+  <p><b>Senior Software Engineer | .NET & C# Specialist | AI Agents Explorer</b></p>
+</div>
 
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/johnatadavi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-  <a href="https://stackoverflow.com/users/12068275/johnata-davi" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
-  <a href="https://www.instagram.com/johnatadavi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/johnatadavi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://github.com/johnatadavi" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
 
 ---
 
 <details>
   <summary>📜 <b>Click</b></summary>
-  
-## 📖 About Me
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/)
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/JohnataDavi?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help
 
-<br>
+## 👨🏻‍💻 About Me
 
-## 🛠️ Languages and Tools
-<a href="https://github.com/JohnataDavi" target="_blank">
-  <code><img target="_blank" height="22" src="https://user-images.githubusercontent.com/26368939/109429148-0f826500-79d9-11eb-9c92-60b58fa58220.png" alt="php"></code>
-  <code><img height="22" src="https://user-images.githubusercontent.com/26368939/109429054-a7338380-79d8-11eb-8c01-96505df05120.png" alt="laravel"></code>
-  <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vuejs"></code>
-  <code><img height="22" src="https://user-images.githubusercontent.com/26368939/109429292-d4346600-79d9-11eb-9818-be1c25fa8160.png" alt="javascript"></code>
-  <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-  <code><img height="22" src="https://user-images.githubusercontent.com/26368939/109429172-2b860680-79d9-11eb-9139-fdb7febae165.png" alt="cpp"></code>
-  <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-  <code><img height="22" src="https://user-images.githubusercontent.com/26368939/109429268-9c2d2300-79d9-11eb-9305-943b9988abf2.png" alt="myslq"></code>
-  <code><img height="22" src="https://user-images.githubusercontent.com/26368939/109689639-446ef300-7b64-11eb-93f1-bf77f4fa29d6.png" alt="postgresql"></code>
-  <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase"></code>
-  <code><img height="22" src="https://user-images.githubusercontent.com/26368939/109429359-21b0d300-79da-11eb-800a-59e77f2c0af7.png" alt="android"></code>
-  <code><img height="22" src="https://user-images.githubusercontent.com/26368939/109690073-b5160f80-7b64-11eb-8c53-07a6e16e193f.png" alt="unity"></code>
-  <code><img height="22" src="https://user-images.githubusercontent.com/26368939/109429225-67b96700-79d9-11eb-8121-636ecda4679f.png" alt="git"></code>
-  <br>
-</a>
+Esqueça o clichê "Hi, I'm a developer". Bem-vindo à minha garagem digital. 
 
-<br>
+Com cerca de **8 anos de experiência** na trincheira da engenharia de software, meu foco é construir sistemas escaláveis, resilientes e otimizados. Sou especialista no **ecossistema .NET / C#** e respiro práticas modernas de arquitetura de software e design patterns. 
 
-## 📊 Github Stats
+Já passei por testes de fogo entregando soluções críticas para gigantes do mercado financeiro e de pagamentos, como **Stone** e **XP Inc.** Hoje, continuo elevando a barra técnica.
+
+## O que estou construindo (Current Focus)
+
+No momento, minha principal exploração fora do expediente é o futuro do desenvolvimento: **Agentes Autônomos de IA**. 
+Estou projetando e construindo uma verdadeira *"Software House" de agentes*, criando arquiteturas onde LLMs colaboram para automatizar, otimizar e redefinir rotinas de engenharia de software. Se você curte o cruzamento entre arquitetura de software sólida e inteligência artificial, dê uma olhada nos meus repositórios.
+
+## Tech Stack & Arsenal
+
+<p align="center"
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Microservices-FF7A59?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices">
+  <img src="https://img.shields.io/badge/Design%20Patterns-005571?style=for-the-badge&logo=awsorganizations&logoColor=white" alt="Design Patterns">
+  <img src="https://img.shields.io/badge/AI%20Agents-FF9900?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
+
+---
+
+## Under the Hood (Beyond the Code)
+
+Eu acredito que a busca por alta performance se aplica a tudo: ao código, ao corpo e às máquinas.
+
+* 🏋️‍♂️ **Hardware Upgrades:** Levo o fisiculturismo muito a sério. Disciplina e um corpo forte são o melhor framework para manter uma mente afiada na hora de debugar sistemas complexos.
+* 🏎️ **Stage 2 Mindset:** Sou apaixonado por cultura automotiva. Piloto uma **BMW 320i Stage 2** — porque, assim como no backend, eu me importo com métricas de tempo de resposta, eficiência e potência.
+* 🤘 **Soundtrack:** O melhor código não é escrito em silêncio. Minhas arquiteturas ganham vida ao som de muito rock e heavy metal (especialmente *Slipknot* e *Avenged Sevenfold*).
+
+---
+
+## Telemetry & Stats
+
 <p align="center">
-  <a href="https://github.com/JohnataDavi" target="_blank">
-    <img height="135px" src="https://github-readme-stats.vercel.app/api?username=JohnataDavi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" />
+  <a href="https://github.com/johnatadavi">
+    <img src="https://github-readme-stats.vercel.app/api?username=johnatadavi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Johnata's GitHub Stats" />
   </a>
-    <a href="https://github.com/JohnataDavi" target="_blank">
-      <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnataDavi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=dracula" />
+  <a href="https://github.com/johnatadavi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatadavi&layout=compact&theme=dracula&hide_border=true" alt="Johnata's Top Languages" />
   </a>
 </p>
 
 ---
+
+## Let's Connect!
+
+Sempre aberto para um bom papo. Quer discutir sobre arquitetura de software, trocar ideias sobre o futuro dos agentes de IA, debater sobre a execução de um treino ou falar sobre remaps e projetos automotivos? 
+
+**[Me chame no LinkedIn!](https://www.linkedin.com/in/johnatadavi)**
 
 <p align="center"> 
   <b>If you think my job is good, consider giving it a ⭐. It motivates me a lot and shows that I am on the right path</b>.<br>
@@ -64,4 +86,6 @@
     <img height="130px" src="https://user-images.githubusercontent.com/26368939/109428013-c845a580-79d3-11eb-9915-9a4a7181d755.gif" />
   </a
 </p>
+</details>
+
 </details>
