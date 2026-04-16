@@ -8,7 +8,7 @@
          ╚════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝
 </pre>
 <div align="center">
-  <h2>Architecting High-Performance Systems & Machines 🏎️💨</h2>
+  <h2>Architecting High-Performance Systems & Machines</h2>
   <p><b>Senior Software Engineer | .NET & C# Specialist | AI Agents Explorer</b></p>
 </div>
 
