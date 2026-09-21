@@ -55,9 +55,8 @@ Estou projetando e construindo uma verdadeira *"Software House" de agentes*, cri
 
 Eu acredito que a busca por alta performance se aplica a tudo: ao código, ao corpo e às máquinas.
 
-* 🏋️‍♂️ **Hardware Upgrades:** Levo o fisiculturismo muito a sério. Disciplina e um corpo forte são o melhor framework para manter uma mente afiada na hora de debugar sistemas complexos.
-* 🏎️ **Stage 2 Mindset:** Sou apaixonado por cultura automotiva. Piloto uma **BMW 320i Stage 2** — porque, assim como no backend, eu me importo com métricas de tempo de resposta, eficiência e potência.
-* 🤘 **Soundtrack:** O melhor código não é escrito em silêncio. Minhas arquiteturas ganham vida ao som de muito rock e heavy metal (especialmente *Slipknot* e *Avenged Sevenfold*).
+* **Hardware Upgrades:** Levo a musculação muito a sério. Disciplina e um corpo forte são o melhor framework para manter uma mente afiada na hora de debugar sistemas complexos.
+  **Soundtrack:** O melhor código não é escrito em silêncio. Minhas arquiteturas ganham vida ao som de muito rock e heavy metal (especialmente *Slipknot* e *Avenged Sevenfold*).
 
 ---
 
